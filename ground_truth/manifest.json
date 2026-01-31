@@ -1,0 +1,15 @@
+{
+  "figma_file_key": "Qwh7gawGnsj6x3PTJMnf7e",
+  "total_frames": 9,
+  "frames": [
+    {"name": "Home", "node_id": "117:336", "gt_image": "117-336.png", "target_route": "/"},
+    {"name": "Shop", "node_id": "117:538", "gt_image": "117-538.png", "target_route": "/shop"},
+    {"name": "Single Product", "node_id": "117:818", "gt_image": "117-818.png", "target_route": "/product/:id"},
+    {"name": "Cart Sidebar", "node_id": "117:960", "gt_image": "117-960.png", "target_route": "/product/:id"},
+    {"name": "Product Comparison", "node_id": "117:641", "gt_image": "117-641.png", "target_route": "/comparison"},
+    {"name": "Cart", "node_id": "117:1259", "gt_image": "117-1259.png", "target_route": "/cart"},
+    {"name": "Checkout", "node_id": "117:1143", "gt_image": "117-1143.png", "target_route": "/checkout"},
+    {"name": "Blog", "node_id": "71:2", "gt_image": "71-2.png", "target_route": "/blog"},
+    {"name": "Contact", "node_id": "63:107", "gt_image": "63-107.png", "target_route": "/contact"}
+  ]
+}
